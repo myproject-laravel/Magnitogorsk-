@@ -15,7 +15,7 @@ class Adminproject extends Seeder
     public function run()
     {
         User::create([
-            'name' => 'gaia quiluange',
+            'name' => 'Eployee_portal',
             'email' => 'gaiokiluange01@mail.ru',
             'password' => bcrypt('123456'),
 
